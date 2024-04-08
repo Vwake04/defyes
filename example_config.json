@@ -1,6 +1,6 @@
 {
     "apikeys": {
-        "etherscan": "",
+        "etherscan": "4T69979BSTCUIFA46EQBW6YVMMUH7I179S",
         "polscan": "",
         "gnosisscan": "",
         "bscscan": "",
@@ -14,7 +14,9 @@
         "basescan": ""
     },
     "nodes": {
-        "ethereum": [],
+        "ethereum": [
+            "https://mainnet.infura.io/v3/38e708fc0d1c40fa8e56b52c4c7e9eb2"
+        ],
         "polygon": [],
         "gnosis": [],
         "metis": [],
